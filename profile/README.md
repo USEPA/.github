@@ -8,6 +8,6 @@ Check out EPA's public open job postings [usabjos.gov](https://www.usajobs.gov/S
 
 Here are some interesting topics to explore:
 
-- [ord](https://github.com/usepa?q=%23ord) -- EPA's office of research and development develops models and  
+- [ord](https://github.com/usepa?q=%23ord) -- EPA's office of research and development develops models
 - [ow](https://github.com/usepa?q=%23ow) -- EPA's office of water studies and regulates the US's waterways
 - [oar](https://github.com/usepa?q=%23oar) -- EPA's Office of Air and Radiation studies and regulates air pollution and emissions
