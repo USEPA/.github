@@ -4,7 +4,7 @@ The US Environmental Protection Agency's mission is to protect human health and 
 
 As part of the government's open source initiative, we publish software here and are open to recieving contributions depending on the project. Please see each repository's CONTRIBUTING.md file for how you can help. 
 
-Check out EPA's public open job postings [usabjos.gov](https://www.usajobs.gov/Search/Results?a=EP00&hp=public&p=1).
+Check out EPA's public open job postings [usajobs.gov](https://www.usajobs.gov/Search/Results?a=EP00&hp=public&p=1).
 
 Here are some interesting topics to explore:
 
